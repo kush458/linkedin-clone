@@ -1,0 +1,38 @@
+{
+  "project_info": {
+    "project_number": "337783702194",
+    "project_id": "linkedinclone-5c643",
+    "storage_bucket": "linkedinclone-5c643.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337783702194:android:685317c7548c7912027fab",
+        "android_client_info": {
+          "package_name": "com.linkedinclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "337783702194-l64c5uknjropji6tsmjdmk1lvm39gu5m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.linkedinclone",
+            "certificate_hash": "32f7f6ada6ed55f5dd799c56b16d058409ce2fa1"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDylm99IbgIKahpOPZi6E5czdMrggq3T3o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
